@@ -35,4 +35,4 @@ Agradecemos cualquier contribución o sugerencia para mejorar este proyecto. Si 
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE.md) para más detalles.
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
