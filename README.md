@@ -1,38 +1,39 @@
-# Detección de Calidad de Neumáticos mediante Visión Artificial
+# Tire Quality Detection through Computer Vision
 
-## Descripción del Proyecto
+## Project Description
 
-Este proyecto, centrado en la detección de la calidad de los neumáticos, utiliza técnicas de visión artificial implementadas principalmente en Python con la librería OpenCV. El objetivo es desarrollar un sistema capaz de identificar neumáticos defectuosos a partir de un conjunto de datos que contiene imágenes clasificadas como defectuosas o buenas.
+This project, focused on tire quality detection, employs computer vision techniques implemented primarily in Python with the OpenCV library. The goal is to develop a system capable of identifying defective tires from a dataset containing classified images as either defective or good.
 
-## Integrantes del Equipo
+## Team Members
 
 - Carolina Álvarez Murillo: [caroAM22](https://github.com/caroAM22)
 - Mateo Álvarez Murillo: [drifterDev](https://github.com/drifterDev)
 
 ## Dataset
 
-El programa utiliza el conjunto de datos "Tyre Quality Classification" obtenido de Kaggle, compuesto por 1854 imágenes digitales en formato jpg. Estas imágenes están etiquetadas como defectuosas (1028) y buenas (828), facilitando el desarrollo de un sistema de inspección eficiente para la producción de neumáticos.
+The program utilizes the "Tyre Quality Classification" dataset obtained from Kaggle, consisting of 1854 digital images in jpg format. These images are labeled as defective (1028) and good (828), facilitating the development of an efficient tire inspection system for production.
 
-## Objetivos
+## Objectives
 
-**Objetivo General:**
-Mejorar el proceso de control de calidad en la industria de neumáticos y reducir las posibilidades de accidentes debidos a neumáticos defectuosos.
+**General Objective:**
+Improve the quality control process in the tire industry and reduce the chances of accidents due to defective tires.
 
-**Objetivos Específicos:**
-1. Realizar un preprocesamiento de las imágenes de llantas del dataset.
-2. Desarrollar un clasificador de llantas defectuosas y buenas.
-3. Documentar el código desarrollado, los análisis realizados y las conclusiones.
+**Specific Objectives:**
+1. Perform preprocessing of tire images from the dataset.
+2. Develop a classifier for defective and good tires.
+3. Document the developed code, analyses performed, and conclusions.
 
-## Instrucciones de Ejecución
+## Execution Instructions
 
-1. Clonar el repositorio: `git clone https://github.com/tu_usuario/proyecto-neumaticos.git`
-2. Instalar dependencias: `pip install -r requirements.txt`
-3. Ejecutar el programa: `Trabajo_vision_artificial.ipynb`
+1. Clone the repository: `git clone https://github.com/your_username/tire-project.git`
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run the program: `Computer_Vision_Project.ipynb`
 
-## Contribuciones
+## Contributions
 
-Agradecemos cualquier contribución o sugerencia para mejorar este proyecto. Si encuentras algún problema, por favor, crea un "issue" en este repositorio.
+We appreciate any contribution or suggestion to enhance this project. If you encounter any issues, please create an "issue" in this repository.
 
-## Licencia
+## License
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+This project is under the MIT License. Refer to the [LICENSE](LICENSE) file for more details.
+
