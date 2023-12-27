@@ -6,10 +6,8 @@ Este proyecto, centrado en la detección de la calidad de los neumáticos, utili
 
 ## Integrantes del Equipo
 
-- **Carolina Álvarez Murillo:** Ingeniería de Sistemas e Informática
-- **Mateo Álvarez Murillo:** Ingeniería de Sistemas e Informática
-- **Cristian Londoño Franco:** Ingeniería de Sistemas e Informática
-- **Miguel Ángel Martínez Arenas:** Ingeniería Física
+- Carolina Álvarez Murillo: [caroAM22](https://github.com/caroAM22)
+- Mateo Álvarez Murillo: [drifterDev](https://github.com/drifterDev)
 
 ## Dataset
 
