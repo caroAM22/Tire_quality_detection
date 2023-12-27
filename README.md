@@ -25,28 +25,11 @@ Mejorar el proceso de control de calidad en la industria de neumáticos y reduci
 2. Desarrollar un clasificador de llantas defectuosas y buenas.
 3. Documentar el código desarrollado, los análisis realizados y las conclusiones.
 
-## Metodología
-
-1. **División del Conjunto de Datos:**
-   - Dividir el conjunto en entrenamiento, validación y prueba.
-
-2. **Preprocesamiento de Datos:**
-   - Cargar imágenes, redimensionar, probar canales de color, separar por luminosidad y aplicar transformaciones lineales.
-
-3. **Construcción del Modelo:**
-   - Desarrollar un modelo de clasificación utilizando las imágenes preprocesadas.
-
-## Estructura de Carpetas
-
-- **/dataset:** Contiene las imágenes del dataset.
-- **/code:** Contiene el código fuente del proyecto.
-- **/docs:** Documentación del proyecto.
-
 ## Instrucciones de Ejecución
 
 1. Clonar el repositorio: `git clone https://github.com/tu_usuario/proyecto-neumaticos.git`
 2. Instalar dependencias: `pip install -r requirements.txt`
-3. Ejecutar el programa: `python main.py`
+3. Ejecutar el programa: `Trabajo_vision_artificial.ipynb`
 
 ## Contribuciones
 
