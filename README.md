@@ -27,7 +27,7 @@ Improve the quality control process in the tire industry and reduce the chances 
 
 1. Clone the repository: `git clone https://github.com/your_username/tire-project.git`
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run the program: `Computer_Vision_Project.ipynb`
+3. Run the program: `Trabajo_vision_artificial.ipynb`
 
 ## Contributions
 
